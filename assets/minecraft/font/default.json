@@ -1,0 +1,37 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "minecraft:include/space"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/default",
+      "filter": {
+        "uniform": false
+      }
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/unifont"
+    },
+    {
+      "type": "bitmap",
+      "file": "_fonts/additions/menu_footer.png",
+      "chars": [
+        ""
+      ],
+      "ascent": 7,
+      "height": 108
+    },
+    {
+      "type": "bitmap",
+      "file": "_fonts/additions/menu_header.png",
+      "chars": [
+        ""
+      ],
+      "ascent": 89,
+      "height": 90
+    }
+  ]
+}

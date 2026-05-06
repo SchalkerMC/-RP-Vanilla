@@ -1,0 +1,59 @@
+{
+    "targets": {
+        "swap":      {},
+        "swap_edge": {},
+        "detect":    { "width": 1, "height": 1 },
+        "swap2":     {}
+    },
+    "passes": [
+        {
+            "vertex_shader": "minecraft:core/screenquad",
+            "fragment_shader": "minecraft:post/no_glow_filter",
+            "inputs": [
+                { "sampler_name": "In", "target": "minecraft:entity_outline" }
+            ],
+            "output": "swap"
+        },
+        {
+            "vertex_shader": "minecraft:core/screenquad",
+            "fragment_shader": "minecraft:post/no_glow_edge",
+            "inputs": [
+                { "sampler_name": "In", "target": "swap" }
+            ],
+            "output": "swap_edge"
+        },
+        {
+            "vertex_shader": "minecraft:core/screenquad",
+            "fragment_shader": "minecraft:post/no_glow_detect",
+            "inputs": [
+                { "sampler_name": "In", "target": "minecraft:entity_outline" }
+            ],
+            "output": "detect"
+        },
+        {
+            "vertex_shader": "minecraft:core/screenquad",
+            "fragment_shader": "minecraft:post/no_glow_shake",
+            "inputs": [
+                { "sampler_name": "In",     "target": "minecraft:main" },
+                { "sampler_name": "Detect", "target": "detect" }
+            ],
+            "output": "swap2"
+        },
+        {
+            "vertex_shader": "minecraft:core/screenquad",
+            "fragment_shader": "minecraft:post/ng_copy",
+            "inputs": [
+                { "sampler_name": "In", "target": "swap_edge" }
+            ],
+            "output": "minecraft:entity_outline"
+        },
+        {
+            "vertex_shader": "minecraft:core/screenquad",
+            "fragment_shader": "minecraft:post/ng_copy",
+            "inputs": [
+                { "sampler_name": "In", "target": "swap2" }
+            ],
+            "output": "minecraft:main"
+        }
+    ]
+}

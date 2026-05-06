@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:notes/note_gui.png",
+            "height": 290,
+            "ascent": -14,
+            "chars": [
+                "ꐏ"
+            ]
+        }
+    ]
+}
