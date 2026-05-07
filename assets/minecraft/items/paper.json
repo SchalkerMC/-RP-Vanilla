@@ -7,1309 +7,1309 @@
         "when": "note",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note"
+          "model": "schalker:item/note/note"
         }
       },
       {
         "when": "note_0",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_0"
+          "model": "schalker:item/note/note_0"
         }
       },
       {
         "when": "note_1",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_1"
+          "model": "schalker:item/note/note_1"
         }
       },
       {
         "when": "note_2",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_2"
+          "model": "schalker:item/note/note_2"
         }
       },
       {
         "when": "note_3",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_3"
+          "model": "schalker:item/note/note_3"
         }
       },
       {
         "when": "note_4",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_4"
+          "model": "schalker:item/note/note_4"
         }
       },
       {
         "when": "note_5",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_5"
+          "model": "schalker:item/note/note_5"
         }
       },
       {
         "when": "note_6",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_6"
+          "model": "schalker:item/note/note_6"
         }
       },
       {
         "when": "note_7",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_7"
+          "model": "schalker:item/note/note_7"
         }
       },
       {
         "when": "note_8",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_8"
+          "model": "schalker:item/note/note_8"
         }
       },
       {
         "when": "note_9",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_9"
+          "model": "schalker:item/note/note_9"
         }
       },
       {
         "when": "note_10",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_10"
+          "model": "schalker:item/note/note_10"
         }
       },
       {
         "when": "note_11",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_11"
+          "model": "schalker:item/note/note_11"
         }
       },
       {
         "when": "note_12",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_12"
+          "model": "schalker:item/note/note_12"
         }
       },
       {
         "when": "note_13",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_13"
+          "model": "schalker:item/note/note_13"
         }
       },
       {
         "when": "note_14",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_14"
+          "model": "schalker:item/note/note_14"
         }
       },
       {
         "when": "note_15",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note/note_15"
+          "model": "schalker:item/note/note_15"
         }
       },
       {
         "when": "note_0_row",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note"
+          "model": "schalker:item/note_0/note"
         }
       },
       {
         "when": "note_0_row_0",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_0"
+          "model": "schalker:item/note_0/note_0"
         }
       },
       {
         "when": "note_0_row_1",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_1"
+          "model": "schalker:item/note_0/note_1"
         }
       },
       {
         "when": "note_0_row_2",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_2"
+          "model": "schalker:item/note_0/note_2"
         }
       },
       {
         "when": "note_0_row_3",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_3"
+          "model": "schalker:item/note_0/note_3"
         }
       },
       {
         "when": "note_0_row_4",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_4"
+          "model": "schalker:item/note_0/note_4"
         }
       },
       {
         "when": "note_0_row_5",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_5"
+          "model": "schalker:item/note_0/note_5"
         }
       },
       {
         "when": "note_0_row_6",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_6"
+          "model": "schalker:item/note_0/note_6"
         }
       },
       {
         "when": "note_0_row_7",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_7"
+          "model": "schalker:item/note_0/note_7"
         }
       },
       {
         "when": "note_0_row_8",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_8"
+          "model": "schalker:item/note_0/note_8"
         }
       },
       {
         "when": "note_0_row_9",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_9"
+          "model": "schalker:item/note_0/note_9"
         }
       },
       {
         "when": "note_0_row_10",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_10"
+          "model": "schalker:item/note_0/note_10"
         }
       },
       {
         "when": "note_0_row_11",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_11"
+          "model": "schalker:item/note_0/note_11"
         }
       },
       {
         "when": "note_0_row_12",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_12"
+          "model": "schalker:item/note_0/note_12"
         }
       },
       {
         "when": "note_0_row_13",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_13"
+          "model": "schalker:item/note_0/note_13"
         }
       },
       {
         "when": "note_0_row_14",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_14"
+          "model": "schalker:item/note_0/note_14"
         }
       },
       {
         "when": "note_0_row_15",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_0/note_15"
+          "model": "schalker:item/note_0/note_15"
         }
       },
       {
         "when": "note_1_row",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note"
+          "model": "schalker:item/note_1/note"
         }
       },
       {
         "when": "note_1_row_0",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_0"
+          "model": "schalker:item/note_1/note_0"
         }
       },
       {
         "when": "note_1_row_1",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_1"
+          "model": "schalker:item/note_1/note_1"
         }
       },
       {
         "when": "note_1_row_2",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_2"
+          "model": "schalker:item/note_1/note_2"
         }
       },
       {
         "when": "note_1_row_3",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_3"
+          "model": "schalker:item/note_1/note_3"
         }
       },
       {
         "when": "note_1_row_4",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_4"
+          "model": "schalker:item/note_1/note_4"
         }
       },
       {
         "when": "note_1_row_5",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_5"
+          "model": "schalker:item/note_1/note_5"
         }
       },
       {
         "when": "note_1_row_6",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_6"
+          "model": "schalker:item/note_1/note_6"
         }
       },
       {
         "when": "note_1_row_7",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_7"
+          "model": "schalker:item/note_1/note_7"
         }
       },
       {
         "when": "note_1_row_8",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_8"
+          "model": "schalker:item/note_1/note_8"
         }
       },
       {
         "when": "note_1_row_9",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_9"
+          "model": "schalker:item/note_1/note_9"
         }
       },
       {
         "when": "note_1_row_10",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_10"
+          "model": "schalker:item/note_1/note_10"
         }
       },
       {
         "when": "note_1_row_11",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_11"
+          "model": "schalker:item/note_1/note_11"
         }
       },
       {
         "when": "note_1_row_12",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_12"
+          "model": "schalker:item/note_1/note_12"
         }
       },
       {
         "when": "note_1_row_13",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_13"
+          "model": "schalker:item/note_1/note_13"
         }
       },
       {
         "when": "note_1_row_14",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_14"
+          "model": "schalker:item/note_1/note_14"
         }
       },
       {
         "when": "note_1_row_15",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_1/note_15"
+          "model": "schalker:item/note_1/note_15"
         }
       },
       {
         "when": "note_2_row",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note"
+          "model": "schalker:item/note_2/note"
         }
       },
       {
         "when": "note_2_row_0",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_0"
+          "model": "schalker:item/note_2/note_0"
         }
       },
       {
         "when": "note_2_row_1",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_1"
+          "model": "schalker:item/note_2/note_1"
         }
       },
       {
         "when": "note_2_row_2",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_2"
+          "model": "schalker:item/note_2/note_2"
         }
       },
       {
         "when": "note_2_row_3",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_3"
+          "model": "schalker:item/note_2/note_3"
         }
       },
       {
         "when": "note_2_row_4",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_4"
+          "model": "schalker:item/note_2/note_4"
         }
       },
       {
         "when": "note_2_row_5",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_5"
+          "model": "schalker:item/note_2/note_5"
         }
       },
       {
         "when": "note_2_row_6",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_6"
+          "model": "schalker:item/note_2/note_6"
         }
       },
       {
         "when": "note_2_row_7",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_7"
+          "model": "schalker:item/note_2/note_7"
         }
       },
       {
         "when": "note_2_row_8",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_8"
+          "model": "schalker:item/note_2/note_8"
         }
       },
       {
         "when": "note_2_row_9",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_9"
+          "model": "schalker:item/note_2/note_9"
         }
       },
       {
         "when": "note_2_row_10",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_10"
+          "model": "schalker:item/note_2/note_10"
         }
       },
       {
         "when": "note_2_row_11",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_11"
+          "model": "schalker:item/note_2/note_11"
         }
       },
       {
         "when": "note_2_row_12",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_12"
+          "model": "schalker:item/note_2/note_12"
         }
       },
       {
         "when": "note_2_row_13",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_13"
+          "model": "schalker:item/note_2/note_13"
         }
       },
       {
         "when": "note_2_row_14",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_14"
+          "model": "schalker:item/note_2/note_14"
         }
       },
       {
         "when": "note_2_row_15",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_2/note_15"
+          "model": "schalker:item/note_2/note_15"
         }
       },
       {
         "when": "note_3_row",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note"
+          "model": "schalker:item/note_3/note"
         }
       },
       {
         "when": "note_3_row_0",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_0"
+          "model": "schalker:item/note_3/note_0"
         }
       },
       {
         "when": "note_3_row_1",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_1"
+          "model": "schalker:item/note_3/note_1"
         }
       },
       {
         "when": "note_3_row_2",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_2"
+          "model": "schalker:item/note_3/note_2"
         }
       },
       {
         "when": "note_3_row_3",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_3"
+          "model": "schalker:item/note_3/note_3"
         }
       },
       {
         "when": "note_3_row_4",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_4"
+          "model": "schalker:item/note_3/note_4"
         }
       },
       {
         "when": "note_3_row_5",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_5"
+          "model": "schalker:item/note_3/note_5"
         }
       },
       {
         "when": "note_3_row_6",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_6"
+          "model": "schalker:item/note_3/note_6"
         }
       },
       {
         "when": "note_3_row_7",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_7"
+          "model": "schalker:item/note_3/note_7"
         }
       },
       {
         "when": "note_3_row_8",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_8"
+          "model": "schalker:item/note_3/note_8"
         }
       },
       {
         "when": "note_3_row_9",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_9"
+          "model": "schalker:item/note_3/note_9"
         }
       },
       {
         "when": "note_3_row_10",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_10"
+          "model": "schalker:item/note_3/note_10"
         }
       },
       {
         "when": "note_3_row_11",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_11"
+          "model": "schalker:item/note_3/note_11"
         }
       },
       {
         "when": "note_3_row_12",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_12"
+          "model": "schalker:item/note_3/note_12"
         }
       },
       {
         "when": "note_3_row_13",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_13"
+          "model": "schalker:item/note_3/note_13"
         }
       },
       {
         "when": "note_3_row_14",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_14"
+          "model": "schalker:item/note_3/note_14"
         }
       },
       {
         "when": "note_3_row_15",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_3/note_15"
+          "model": "schalker:item/note_3/note_15"
         }
       },
       {
         "when": "note_4_row",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note"
+          "model": "schalker:item/note_4/note"
         }
       },
       {
         "when": "note_4_row_0",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_0"
+          "model": "schalker:item/note_4/note_0"
         }
       },
       {
         "when": "note_4_row_1",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_1"
+          "model": "schalker:item/note_4/note_1"
         }
       },
       {
         "when": "note_4_row_2",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_2"
+          "model": "schalker:item/note_4/note_2"
         }
       },
       {
         "when": "note_4_row_3",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_3"
+          "model": "schalker:item/note_4/note_3"
         }
       },
       {
         "when": "note_4_row_4",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_4"
+          "model": "schalker:item/note_4/note_4"
         }
       },
       {
         "when": "note_4_row_5",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_5"
+          "model": "schalker:item/note_4/note_5"
         }
       },
       {
         "when": "note_4_row_6",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_6"
+          "model": "schalker:item/note_4/note_6"
         }
       },
       {
         "when": "note_4_row_7",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_7"
+          "model": "schalker:item/note_4/note_7"
         }
       },
       {
         "when": "note_4_row_8",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_8"
+          "model": "schalker:item/note_4/note_8"
         }
       },
       {
         "when": "note_4_row_9",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_9"
+          "model": "schalker:item/note_4/note_9"
         }
       },
       {
         "when": "note_4_row_10",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_10"
+          "model": "schalker:item/note_4/note_10"
         }
       },
       {
         "when": "note_4_row_11",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_11"
+          "model": "schalker:item/note_4/note_11"
         }
       },
       {
         "when": "note_4_row_12",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_12"
+          "model": "schalker:item/note_4/note_12"
         }
       },
       {
         "when": "note_4_row_13",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_13"
+          "model": "schalker:item/note_4/note_13"
         }
       },
       {
         "when": "note_4_row_14",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_14"
+          "model": "schalker:item/note_4/note_14"
         }
       },
       {
         "when": "note_4_row_15",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_4/note_15"
+          "model": "schalker:item/note_4/note_15"
         }
       },
       {
         "when": "note_5_row",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note"
+          "model": "schalker:item/note_5/note"
         }
       },
       {
         "when": "note_5_row_0",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_0"
+          "model": "schalker:item/note_5/note_0"
         }
       },
       {
         "when": "note_5_row_1",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_1"
+          "model": "schalker:item/note_5/note_1"
         }
       },
       {
         "when": "note_5_row_2",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_2"
+          "model": "schalker:item/note_5/note_2"
         }
       },
       {
         "when": "note_5_row_3",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_3"
+          "model": "schalker:item/note_5/note_3"
         }
       },
       {
         "when": "note_5_row_4",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_4"
+          "model": "schalker:item/note_5/note_4"
         }
       },
       {
         "when": "note_5_row_5",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_5"
+          "model": "schalker:item/note_5/note_5"
         }
       },
       {
         "when": "note_5_row_6",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_6"
+          "model": "schalker:item/note_5/note_6"
         }
       },
       {
         "when": "note_5_row_7",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_7"
+          "model": "schalker:item/note_5/note_7"
         }
       },
       {
         "when": "note_5_row_8",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_8"
+          "model": "schalker:item/note_5/note_8"
         }
       },
       {
         "when": "note_5_row_9",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_9"
+          "model": "schalker:item/note_5/note_9"
         }
       },
       {
         "when": "note_5_row_10",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_10"
+          "model": "schalker:item/note_5/note_10"
         }
       },
       {
         "when": "note_5_row_11",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_11"
+          "model": "schalker:item/note_5/note_11"
         }
       },
       {
         "when": "note_5_row_12",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_12"
+          "model": "schalker:item/note_5/note_12"
         }
       },
       {
         "when": "note_5_row_13",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_13"
+          "model": "schalker:item/note_5/note_13"
         }
       },
       {
         "when": "note_5_row_14",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_14"
+          "model": "schalker:item/note_5/note_14"
         }
       },
       {
         "when": "note_5_row_15",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_5/note_15"
+          "model": "schalker:item/note_5/note_15"
         }
       },
       {
         "when": "note_6_row",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note"
+          "model": "schalker:item/note_6/note"
         }
       },
       {
         "when": "note_6_row_0",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_0"
+          "model": "schalker:item/note_6/note_0"
         }
       },
       {
         "when": "note_6_row_1",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_1"
+          "model": "schalker:item/note_6/note_1"
         }
       },
       {
         "when": "note_6_row_2",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_2"
+          "model": "schalker:item/note_6/note_2"
         }
       },
       {
         "when": "note_6_row_3",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_3"
+          "model": "schalker:item/note_6/note_3"
         }
       },
       {
         "when": "note_6_row_4",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_4"
+          "model": "schalker:item/note_6/note_4"
         }
       },
       {
         "when": "note_6_row_5",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_5"
+          "model": "schalker:item/note_6/note_5"
         }
       },
       {
         "when": "note_6_row_6",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_6"
+          "model": "schalker:item/note_6/note_6"
         }
       },
       {
         "when": "note_6_row_7",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_7"
+          "model": "schalker:item/note_6/note_7"
         }
       },
       {
         "when": "note_6_row_8",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_8"
+          "model": "schalker:item/note_6/note_8"
         }
       },
       {
         "when": "note_6_row_9",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_9"
+          "model": "schalker:item/note_6/note_9"
         }
       },
       {
         "when": "note_6_row_10",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_10"
+          "model": "schalker:item/note_6/note_10"
         }
       },
       {
         "when": "note_6_row_11",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_11"
+          "model": "schalker:item/note_6/note_11"
         }
       },
       {
         "when": "note_6_row_12",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_12"
+          "model": "schalker:item/note_6/note_12"
         }
       },
       {
         "when": "note_6_row_13",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_13"
+          "model": "schalker:item/note_6/note_13"
         }
       },
       {
         "when": "note_6_row_14",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_14"
+          "model": "schalker:item/note_6/note_14"
         }
       },
       {
         "when": "note_6_row_15",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_6/note_15"
+          "model": "schalker:item/note_6/note_15"
         }
       },
       {
         "when": "note_7_row",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note"
+          "model": "schalker:item/note_7/note"
         }
       },
       {
         "when": "note_7_row_0",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_0"
+          "model": "schalker:item/note_7/note_0"
         }
       },
       {
         "when": "note_7_row_1",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_1"
+          "model": "schalker:item/note_7/note_1"
         }
       },
       {
         "when": "note_7_row_2",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_2"
+          "model": "schalker:item/note_7/note_2"
         }
       },
       {
         "when": "note_7_row_3",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_3"
+          "model": "schalker:item/note_7/note_3"
         }
       },
       {
         "when": "note_7_row_4",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_4"
+          "model": "schalker:item/note_7/note_4"
         }
       },
       {
         "when": "note_7_row_5",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_5"
+          "model": "schalker:item/note_7/note_5"
         }
       },
       {
         "when": "note_7_row_6",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_6"
+          "model": "schalker:item/note_7/note_6"
         }
       },
       {
         "when": "note_7_row_7",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_7"
+          "model": "schalker:item/note_7/note_7"
         }
       },
       {
         "when": "note_7_row_8",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_8"
+          "model": "schalker:item/note_7/note_8"
         }
       },
       {
         "when": "note_7_row_9",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_9"
+          "model": "schalker:item/note_7/note_9"
         }
       },
       {
         "when": "note_7_row_10",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_10"
+          "model": "schalker:item/note_7/note_10"
         }
       },
       {
         "when": "note_7_row_11",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_11"
+          "model": "schalker:item/note_7/note_11"
         }
       },
       {
         "when": "note_7_row_12",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_12"
+          "model": "schalker:item/note_7/note_12"
         }
       },
       {
         "when": "note_7_row_13",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_13"
+          "model": "schalker:item/note_7/note_13"
         }
       },
       {
         "when": "note_7_row_14",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_14"
+          "model": "schalker:item/note_7/note_14"
         }
       },
       {
         "when": "note_7_row_15",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_7/note_15"
+          "model": "schalker:item/note_7/note_15"
         }
       },
       {
         "when": "note_8_row",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note"
+          "model": "schalker:item/note_8/note"
         }
       },
       {
         "when": "note_8_row_0",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_0"
+          "model": "schalker:item/note_8/note_0"
         }
       },
       {
         "when": "note_8_row_1",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_1"
+          "model": "schalker:item/note_8/note_1"
         }
       },
       {
         "when": "note_8_row_2",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_2"
+          "model": "schalker:item/note_8/note_2"
         }
       },
       {
         "when": "note_8_row_3",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_3"
+          "model": "schalker:item/note_8/note_3"
         }
       },
       {
         "when": "note_8_row_4",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_4"
+          "model": "schalker:item/note_8/note_4"
         }
       },
       {
         "when": "note_8_row_5",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_5"
+          "model": "schalker:item/note_8/note_5"
         }
       },
       {
         "when": "note_8_row_6",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_6"
+          "model": "schalker:item/note_8/note_6"
         }
       },
       {
         "when": "note_8_row_7",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_7"
+          "model": "schalker:item/note_8/note_7"
         }
       },
       {
         "when": "note_8_row_8",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_8"
+          "model": "schalker:item/note_8/note_8"
         }
       },
       {
         "when": "note_8_row_9",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_9"
+          "model": "schalker:item/note_8/note_9"
         }
       },
       {
         "when": "note_8_row_10",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_10"
+          "model": "schalker:item/note_8/note_10"
         }
       },
       {
         "when": "note_8_row_11",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_11"
+          "model": "schalker:item/note_8/note_11"
         }
       },
       {
         "when": "note_8_row_12",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_12"
+          "model": "schalker:item/note_8/note_12"
         }
       },
       {
         "when": "note_8_row_13",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_13"
+          "model": "schalker:item/note_8/note_13"
         }
       },
       {
         "when": "note_8_row_14",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_14"
+          "model": "schalker:item/note_8/note_14"
         }
       },
       {
         "when": "note_8_row_15",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_8/note_15"
+          "model": "schalker:item/note_8/note_15"
         }
       },
       {
         "when": "note_9_row",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note"
+          "model": "schalker:item/note_9/note"
         }
       },
       {
         "when": "note_9_row_0",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_0"
+          "model": "schalker:item/note_9/note_0"
         }
       },
       {
         "when": "note_9_row_1",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_1"
+          "model": "schalker:item/note_9/note_1"
         }
       },
       {
         "when": "note_9_row_2",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_2"
+          "model": "schalker:item/note_9/note_2"
         }
       },
       {
         "when": "note_9_row_3",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_3"
+          "model": "schalker:item/note_9/note_3"
         }
       },
       {
         "when": "note_9_row_4",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_4"
+          "model": "schalker:item/note_9/note_4"
         }
       },
       {
         "when": "note_9_row_5",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_5"
+          "model": "schalker:item/note_9/note_5"
         }
       },
       {
         "when": "note_9_row_6",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_6"
+          "model": "schalker:item/note_9/note_6"
         }
       },
       {
         "when": "note_9_row_7",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_7"
+          "model": "schalker:item/note_9/note_7"
         }
       },
       {
         "when": "note_9_row_8",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_8"
+          "model": "schalker:item/note_9/note_8"
         }
       },
       {
         "when": "note_9_row_9",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_9"
+          "model": "schalker:item/note_9/note_9"
         }
       },
       {
         "when": "note_9_row_10",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_10"
+          "model": "schalker:item/note_9/note_10"
         }
       },
       {
         "when": "note_9_row_11",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_11"
+          "model": "schalker:item/note_9/note_11"
         }
       },
       {
         "when": "note_9_row_12",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_12"
+          "model": "schalker:item/note_9/note_12"
         }
       },
       {
         "when": "note_9_row_13",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_13"
+          "model": "schalker:item/note_9/note_13"
         }
       },
       {
         "when": "note_9_row_14",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_14"
+          "model": "schalker:item/note_9/note_14"
         }
       },
       {
         "when": "note_9_row_15",
         "model": {
           "type": "model",
-          "model": "minecraft:item/note_9/note_15"
+          "model": "schalker:item/note_9/note_15"
         }
       }
       
