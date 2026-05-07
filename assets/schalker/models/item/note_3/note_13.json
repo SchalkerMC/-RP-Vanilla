@@ -3,7 +3,8 @@
     "credit": "Made with Blockbench",
     "textures": {
         "0": "schalker:item/note_3_row",
-        "1": "schalker:item/note_emissive"
+        "1": "schalker:item/note_emissive",
+        "particle": "schalker:item/note_particle"
     },
     "elements": [
         {

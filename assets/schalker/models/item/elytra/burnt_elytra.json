@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "schalker:item/burnt_elytra/elytra"
+    }
+}

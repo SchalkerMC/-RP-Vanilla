@@ -2,7 +2,8 @@
     "format_version": "1.21.11",
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "schalker:item/note_9_row"
+        "0": "schalker:item/note_9_row",
+        "particle": "schalker:item/note_particle"
     },
     "elements": [
         {
