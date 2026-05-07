@@ -1,24 +1,22 @@
 {
-  "schalker": {
-    "sound1": {
-      "sounds": [{
-        "name": "sound1",
-        "volume": 2.55,
-        "weight": 10
-      }]
-    },
-    "alert": {
-      "replace": false,
-      "sounds": [{
-        "name": "alert",
-        "volume": 1.0,
-        "pitch": 1.0,
-        "weight": 1,
-        "stream": false,
-        "attenuation_distance": 16,
-        "preload": false,
-        "channels": 2
-      }]
-    }
+  "sound1": {
+    "sounds": [{
+      "name": "schalker:sound1",
+      "volume": 2.55,
+      "weight": 10
+    }]
+  },
+  "alert": {
+    "replace": false,
+    "sounds": [{
+      "name": "schalker:alert",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
   }
 }
