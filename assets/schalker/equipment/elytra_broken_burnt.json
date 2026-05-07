@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "schalker:elytra_broken_burnt",
+        "use_player_texture": false
+      }
+    ]
+  }
+}
