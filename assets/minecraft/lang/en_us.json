@@ -2,5 +2,7 @@
   "menu.returnToGame": "",
   "menu.disconnect": "",
   "menu.game": "",
-  "item.schalker.elytra.burnt": "Burnt Elytra"
+  "item.schalker.elytra.burnt": "Burnt Elytra",
+  "schalker.rp.server": "vanilla",
+  "schalker.rp.version": "v1.2"
 }

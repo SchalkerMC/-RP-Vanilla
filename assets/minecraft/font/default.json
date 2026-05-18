@@ -32,6 +32,33 @@
       ],
       "ascent": 89,
       "height": 90
+    },
+    {
+      "type": "bitmap",
+      "file": "_fonts/additions/discord.png",
+      "chars": [
+        "\uE000"
+      ],
+      "ascent": 7,
+      "height": 7
+    },
+    {
+      "type": "bitmap",
+      "file": "_fonts/additions/planet.png",
+      "chars": [
+        "\uE001"
+      ],
+      "ascent": 7,
+      "height": 7
+    },
+    {
+      "type": "bitmap",
+      "file": "_fonts/additions/pin.png",
+      "chars": [
+        "\uE002"
+      ],
+      "ascent": 7,
+      "height": 7
     }
   ]
 }
