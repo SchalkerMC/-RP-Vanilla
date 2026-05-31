@@ -18,5 +18,196 @@
       "preload": false,
       "channels": 2
     }]
+  },
+  "riser": {
+    "sounds": [{
+      "name": "schalker:collectibles/riser",
+      "volume": 0.7,
+      "weight": 1
+    }]
+  },
+  "common": {
+    "sounds": [{
+      "name": "schalker:collectibles/common",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "uncommon": {
+    "sounds": [{
+      "name": "schalker:collectibles/uncommon",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "rare": {
+    "sounds": [{
+      "name": "schalker:collectibles/rare",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "epic": {
+    "sounds": [{
+      "name": "schalker:collectibles/epic",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "legendary": {
+    "sounds": [{
+      "name": "schalker:collectibles/legendary",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+
+
+  "meme/ack": {
+    "sounds": [{
+      "name": "schalker:meme/ack",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/applepay": {
+    "sounds": [{
+      "name": "schalker:meme/applepay",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/barkfart": {
+    "sounds": [{
+      "name": "schalker:meme/barkfart",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/bell": {
+    "sounds": [{
+      "name": "schalker:meme/bell",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/camera_shot": {
+    "sounds": [{
+      "name": "schalker:meme/camera_shot",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/chicken_scream": {
+    "sounds": [{
+      "name": "schalker:meme/chicken_scream",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/correct": {
+    "sounds": [{
+      "name": "schalker:meme/correct",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/ds_leave": {
+    "sounds": [{
+      "name": "schalker:meme/ds_leave",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/ds_notification": {
+    "sounds": [{
+      "name": "schalker:meme/ds_notification",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/gogogaga": {
+    "sounds": [{
+      "name": "schalker:meme/gogogaga",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/gtav_notification": {
+    "sounds": [{
+      "name": "schalker:meme/gtav_notification",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/icq": {
+    "sounds": [{
+      "name": "schalker:meme/icq",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/lie_detector": {
+    "sounds": [{
+      "name": "schalker:meme/lie_detector",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/mcdonalds": {
+    "sounds": [{
+      "name": "schalker:meme/mcdonalds",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/meow": {
+    "sounds": [{
+      "name": "schalker:meme/meow",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/romance": {
+    "sounds": [{
+      "name": "schalker:meme/romance",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/sarpili": {
+    "sounds": [{
+      "name": "schalker:meme/sarpili",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/skype_call": {
+    "sounds": [{
+      "name": "schalker:meme/skype_call",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/tg": {
+    "sounds": [{
+      "name": "schalker:meme/tg",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/wrong": {
+    "sounds": [{
+      "name": "schalker:meme/wrong",
+      "volume": 1,
+      "weight": 1
+    }]
+  },
+  "meme/xqc_clapping": {
+    "sounds": [{
+      "name": "schalker:meme/xqc_clapping",
+      "volume": 1,
+      "weight": 1
+    }]
   }
 }

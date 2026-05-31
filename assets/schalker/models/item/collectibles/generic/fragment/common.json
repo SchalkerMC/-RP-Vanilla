@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "schalker:item/collectibles/generic/fragment/common"
+  }
+}

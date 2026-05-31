@@ -1,0 +1,58 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "custom_model_data",
+    "index": 0,
+    "cases": [{
+      "when": "collectibles",
+      "model": {
+        "type": "minecraft:select",
+        "property": "custom_model_data",
+        "index": 1,
+        "cases": [{
+          "when": "funkopop",
+          "model": {
+            "type": "minecraft:select",
+            "property": "custom_model_data",
+            "index": 2,
+            "cases": [{
+              "when": "common_icon",
+              "model": {
+                "type": "model",
+                "model": "schalker:item/collectibles/generic/rarities/common_icon"
+              }
+            }, {
+              "when": "uncommon_icon",
+              "model": {
+                "type": "model",
+                "model": "schalker:item/collectibles/generic/rarities/uncommon_icon"
+              }
+            }, {
+              "when": "rare_icon",
+              "model": {
+                "type": "model",
+                "model": "schalker:item/collectibles/generic/rarities/rare_icon"
+              }
+            }, {
+              "when": "epic_icon",
+              "model": {
+                "type": "model",
+                "model": "schalker:item/collectibles/generic/rarities/epic_icon"
+              }
+            }, {
+              "when": "legendary_icon",
+              "model": {
+                "type": "model",
+                "model": "schalker:item/collectibles/generic/rarities/legendary_icon"
+              }
+            }]
+          }
+        }]
+      }
+    }],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/echo_shard"
+    }
+  }
+}
