@@ -1,0 +1,53 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "head",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:custom_model_data",
+          "cases": [
+            {
+              "when": "scuba_mask_lvl2_half",
+              "model": {
+                "type": "minecraft:model",
+                "model": "equipment/lvl_2/scuba_mask_half"
+              }
+            },
+            {
+              "when": "scuba_mask_lvl2_full",
+              "model": {
+                "type": "minecraft:model",
+                "model": "equipment/lvl_2/scuba_mask_full"
+              }
+            },
+            {
+              "when": "scuba_mask_lvl3_half",
+              "model": {
+                "type": "minecraft:model",
+                "model": "equipment/lvl_3/scuba_mask_half"
+              }
+            },
+            {
+              "when": "scuba_mask_lvl3_full",
+              "model": {
+                "type": "minecraft:model",
+                "model": "equipment/lvl_3/scuba_mask_full"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "equipment/lvl_1/scuba_mask"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/scuba_mask"
+    }
+  }
+}

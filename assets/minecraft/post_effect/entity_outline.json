@@ -26,6 +26,13 @@
                 {
                     "sampler_name": "RawScreen",
                     "target": "rawoutline"
+                },
+                {
+                    "sampler_name": "MemeImage",
+                    "location": "minecraft:meme/kadyrov",
+                    "width": 1280,
+                    "height": 1280,
+                    "bilinear": true
                 }
             ],
             "uniforms": {},

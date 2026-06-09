@@ -1,0 +1,25 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "item/bottle",
+        "tints": [
+          {
+            "type": "minecraft:custom_model_data",
+            "default": 16777215
+          }
+        ]
+      },
+      {
+        "type": "minecraft:model",
+        "model": "item/bottle_svitok"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "item/bottle_cork"
+      }
+    ]
+  }
+}

@@ -4,6 +4,7 @@
 
 uniform sampler2D InSampler;
 uniform sampler2D RawScreenSampler;
+uniform sampler2D MemeImageSampler;
 
 in vec2 texCoord;
 
@@ -124,6 +125,26 @@ void main() {
         }
 
         fragColor = vec4(col, 1.0);
+        return;
+    }
+
+    // --- Мем-оверлей (R=251), доля непрозрачности в G (0..1) ---
+    if (marker == 251) {
+        float opacity = clamp(controlTexel.g, 0.0, 1.0);
+        float aspect = ScreenSize.x / ScreenSize.y;
+        // Доля высоты экрана, которую занимает КВАДРАТНАЯ картинка (меньше → «дальше»).
+        const float MEME_SCALE = 0.8;
+        // Центрируем по обеим осям и масштабируем, сохраняя пропорции 1:1.
+        vec2 uv;
+        uv.x = (texCoord.x - 0.5) * aspect / MEME_SCALE + 0.5;
+        uv.y = (texCoord.y - 0.5) / MEME_SCALE + 0.5;
+        if (uv.x >= 0.0 && uv.x <= 1.0 && uv.y >= 0.0 && uv.y <= 1.0) {
+            // Если картинка окажется перевёрнутой — заменить (1.0 - uv.y) на uv.y.
+            vec4 meme = texture(MemeImageSampler, vec2(uv.x, 1.0 - uv.y));
+            fragColor = vec4(mix(inTexel.rgb, meme.rgb, opacity * meme.a), 1.0);
+        } else {
+            fragColor = inTexel;
+        }
         return;
     }
 }
